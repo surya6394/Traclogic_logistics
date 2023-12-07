@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Traclogic_logistics/static/css/main.7eed66f0.css",
+    "main.js": "/Traclogic_logistics/static/js/main.e9fb0f7f.js",
+    "static/js/787.6fe2cda1.chunk.js": "/Traclogic_logistics/static/js/787.6fe2cda1.chunk.js",
+    "static/media/logistics.png": "/Traclogic_logistics/static/media/logistics.48f8f258d7058f66305a.png",
+    "static/media/journal.png": "/Traclogic_logistics/static/media/journal.672cc9b94fa242f187a1.png",
+    "static/media/bannerImg-01.jpeg": "/Traclogic_logistics/static/media/bannerImg-01.222e90b70a5f39249154.jpeg",
+    "static/media/TRACALOGIC.png": "/Traclogic_logistics/static/media/TRACALOGIC.a078a8a57b6cf6848792.png",
+    "static/media/google-play-btn2.jpg": "/Traclogic_logistics/static/media/google-play-btn2.2191b5e7d9b2e1252cdf.jpg",
+    "static/media/app-store-btn2.jpg": "/Traclogic_logistics/static/media/app-store-btn2.b49aed9a6a220665d31f.jpg",
+    "static/media/fmb110.jpg": "/Traclogic_logistics/static/media/fmb110.1ba36a2ed4fc037b3d1e.jpg",
+    "index.html": "/Traclogic_logistics/index.html",
+    "main.7eed66f0.css.map": "/Traclogic_logistics/static/css/main.7eed66f0.css.map",
+    "main.e9fb0f7f.js.map": "/Traclogic_logistics/static/js/main.e9fb0f7f.js.map",
+    "787.6fe2cda1.chunk.js.map": "/Traclogic_logistics/static/js/787.6fe2cda1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7eed66f0.css",
+    "static/js/main.e9fb0f7f.js"
+  ]
+}
